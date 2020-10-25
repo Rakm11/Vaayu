@@ -1,0 +1,13 @@
+body{
+    background: #B5B5B5;
+}
+
+.alert{
+    text-align: center;
+}
+
+
+section{
+    display: flex;
+    justify-content: center;
+}
